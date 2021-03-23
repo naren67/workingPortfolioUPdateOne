@@ -1,0 +1,12 @@
+<svg width="200" height="229" viewBox="0 0 200 229" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="compass">
+<circle id="compass_body" cx="100" cy="129" r="90" stroke="black" stroke-width="20"/>
+<g id="ring">
+<circle id="Ellipse 1" cx="101" cy="15" r="12" stroke="black" stroke-width="6"/>
+</g>
+<g id="needle">
+<path id="Polygon 1" d="M100.531 64.0015L116 129L85.5257 129.108L100.531 64.0015Z" fill="#F31010"/>
+<path id="Polygon 2" d="M101.113 194.359L85.5904 129.396L116.034 129.255L101.113 194.359Z" fill="#48AEE7"/>
+</g>
+</g>
+</svg>

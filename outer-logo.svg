@@ -1,0 +1,8 @@
+<svg width="150" height="150" viewBox="0 0 150 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="outer-logo">
+<circle id="end-circle" cx="75" cy="75" r="46" stroke="#C0FF02" stroke-width="8"/>
+<circle id="center-circle" cx="75.5" cy="75.5" r="12.5" fill="#C0FF02"/>
+<line id="center-line" x1="140" y1="75.5" x2="10" y2="75.5" stroke="black"/>
+<line id="cross-line" x1="0.646447" y1="149.139" x2="149.139" y2="0.646441" stroke="black"/>
+</g>
+</svg>
